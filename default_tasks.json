@@ -1,0 +1,237 @@
+{
+  "Day 1": [
+    "Introduction to Java: Learn the history and significance of Java.",
+    "Understand the Java Virtual Machine (JVM), JRE, and JDK.",
+    "Download and install JDK and IntelliJ IDEA or Eclipse IDE.",
+    "Write your first Java program: 'Hello, World!' and understand its structure."
+  ],
+  "Day 2": [
+    "Explore Java program structure: packages, classes, and methods.",
+    "Learn how to set up the PATH environment variable.",
+    "Practice: Create a program to print your name and favorite hobby."
+  ],
+  "Day 3": [
+    "Understand Java data types: int, double, char, boolean, and more.",
+    "Learn about declaring and initializing variables.",
+    "Practice: Write a program to display the sum of two numbers."
+  ],
+  "Day 4": [
+    "Learn about constants and the `final` keyword.",
+    "Explore arithmetic and logical operators.",
+    "Practice: Create a program to perform basic arithmetic calculations."
+  ],
+  "Day 5": [
+    "Understand conditional statements: if-else and switch-case.",
+    "Practice: Write a program to find the largest of three numbers."
+  ],
+  "Day 6": [
+    "Learn about loops: for, while, and do-while.",
+    "Practice: Write a program to calculate the factorial of a number."
+  ],
+  "Day 7": [
+    "Review and practice: Solve 3-5 small problems on Java basics."
+  ],
+  "Day 8": [
+    "Introduction to OOP: Understand classes, objects, and methods.",
+    "Write a 'Person' class with properties like name and age and methods like displayDetails()."
+  ],
+  "Day 9": [
+    "Understand encapsulation: Use private variables with getter and setter methods.",
+    "Practice: Create a `BankAccount` class with deposit and withdraw functionality."
+  ],
+  "Day 10": [
+    "Learn inheritance: Single and multilevel inheritance.",
+    "Practice: Create a class hierarchy (e.g., `Animal -> Dog -> Labrador`)."
+  ],
+  "Day 11": [
+    "Explore polymorphism: Method overloading and method overriding.",
+    "Practice: Write overloaded methods to calculate the area of a circle and rectangle."
+  ],
+  "Day 12": [
+    "Learn abstraction: Use abstract classes and interfaces.",
+    "Practice: Create an interface `Shape` with methods for area and perimeter."
+  ],
+  "Day 13": [
+    "Explore the `static` keyword and `final` keyword.",
+    "Practice: Write a program to demonstrate static variables and methods."
+  ],
+  "Day 14": [
+    "Review and practice: Solve 3-5 problems on OOP concepts."
+  ],
+  "Day 15": [
+    "Introduction to strings: Learn basic string methods like length, substring, and charAt.",
+    "Practice: Write a program to check if a string is a palindrome."
+  ],
+  "Day 16": [
+    "Explore StringBuilder and StringBuffer.",
+    "Practice: Remove vowels from a string and replace spaces with underscores."
+  ],
+  "Day 17": [
+    "Introduction to recursion: Understand the basics and write simple recursive functions.",
+    "Practice: Factorial and Fibonacci series."
+  ],
+  "Day 18": [
+    "Advanced recursion: Solve backtracking problems.",
+    "Practice: Generate all subsets of a string."
+  ],
+  "Day 19": [
+    "Review and practice: Solve 3-5 problems combining strings and recursion."
+  ],
+  "Day 20": [
+    "Learn sorting algorithms: Bubble sort, selection sort, and insertion sort.",
+    "Practice: Sort an array of integers."
+  ],
+  "Day 21": [
+    "Explore searching algorithms: Linear search and binary search.",
+    "Practice: Implement binary search for sorted arrays."
+  ],
+  "Day 22": [
+    "Introduction to data structures: Lists, stacks, and queues in Java.",
+    "Practice: Implement push and pop operations in a stack."
+  ],
+  "Day 23": [
+    "Learn about HashMap and HashSet.",
+    "Practice: Count the occurrences of characters in a string using a HashMap."
+  ],
+  "Day 24": [
+    "Solve easy problems on arrays, strings, and basic algorithms.",
+    "Practice on platforms like HackerRank or LeetCode."
+  ],
+  "Day 25": [
+    "Focus on debugging techniques and problem-solving."
+  ],
+  "Day 26": [
+    "Review and consolidate knowledge of algorithms and data structures."
+  ],
+  "Day 27": [
+    "Learn exception handling: Try-catch blocks, throw, and throws.",
+    "Practice: Write a program to handle invalid input exceptions."
+  ],
+  "Day 28": [
+    "Understand file handling: Reading and writing files.",
+    "Practice: Write a program to count words in a file."
+  ],
+  "Day 29": [
+    "Introduction to multithreading: Thread class and Runnable interface.",
+    "Practice: Create a program that runs two threads simultaneously."
+  ],
+  "Day 30": [
+    "Explore the Java Collections Framework: Lists, sets, and maps.",
+    "Practice: Implement a program using ArrayList and HashMap."
+  ],
+  "Day 31": [
+    "Learn advanced collections: PriorityQueue and TreeMap.",
+    "Practice: Sort a map by values."
+  ],
+  "Day 32": [
+    "Introduction to Java Streams API: Filter, map, and reduce operations.",
+    "Practice: Find the average of even numbers in a list."
+  ],
+  "Day 33": [
+    "Learn lambda expressions and functional interfaces.",
+    "Practice: Write a lambda expression to sort a list of names."
+  ],
+  "Day 34": [
+    "Solve medium-level problems using data structures and algorithms."
+  ],
+  "Day 35": [
+    "Review and practice advanced Java topics."
+  ],
+  "Day 36": [
+    "Start Mini-Project 1: Create a Student Management System.",
+    "Features: Add student records."
+  ],
+  "Day 37": [
+    "Continue Mini-Project 1: Student Management System.",
+    "Features: Delete student records."
+  ],
+  "Day 38": [
+    "Continue Mini-Project 1: Student Management System.",
+    "Features: Search student records."
+  ],
+  "Day 39": [
+    "Continue Mini-Project 1: Student Management System.",
+    "Features: Update student records."
+  ],
+  "Day 40": [
+    "Complete Mini-Project 1.",
+    "Store data persistently in files."
+  ],
+  "Day 41": [
+    "Start Mini-Project 2: Create a Basic E-Commerce Application.",
+    "Features: Display product list."
+  ],
+  "Day 42": [
+    "Continue Mini-Project 2.",
+    "Features: Add items to cart."
+  ],
+  "Day 43": [
+    "Continue Mini-Project 2.",
+    "Features: Place an order."
+  ],
+  "Day 44": [
+    "Continue Mini-Project 2.",
+    "Features: Use HashMap to store product details."
+  ],
+  "Day 45": [
+    "Complete Mini-Project 2.",
+    "Test the functionality."
+  ],
+  "Day 46": [
+    "Solve problems involving recursion and dynamic programming.",
+    "Focus on subsets and knapsack problems."
+  ],
+  "Day 47": [
+    "Solve problems involving graph traversal: BFS and DFS.",
+    "Practice on undirected graphs."
+  ],
+  "Day 48": [
+    "Solve advanced problems on recursion and graphs.",
+    "Focus on combinations and pathfinding."
+  ],
+  "Day 49": [
+    "Solve problems involving trees: Binary trees and traversal techniques."
+  ],
+  "Day 50": [
+    "Focus on competitive problems from platforms like Codeforces or CodeChef."
+  ],
+  "Day 51": [
+    "Revise all OOP concepts.",
+    "Solve 2-3 problems combining OOP with data structures."
+  ],
+  "Day 52": [
+    "Revise data structures: Arrays, stacks, and queues.",
+    "Solve 2-3 problems daily."
+  ],
+  "Day 53": [
+    "Revise algorithms: Sorting and searching.",
+    "Practice 2-3 problems daily."
+  ],
+  "Day 54": [
+    "Revise advanced concepts: Recursion, graphs, and streams.",
+    "Solve medium-level problems."
+  ],
+  "Day 55": [
+    "Consolidate knowledge and solve previously unsolved problems."
+  ],
+  "Day 56": [
+    "Start Capstone Project: Library Management System.",
+    "Features: Add books."
+  ],
+  "Day 57": [
+    "Continue Capstone Project.",
+    "Features: Issue books to users."
+  ],
+  "Day 58": [
+    "Continue Capstone Project.",
+    "Features: Return books."
+  ],
+  "Day 59": [
+    "Continue Capstone Project.",
+    "Store data using file handling."
+  ],
+  "Day 60": [
+    "Complete Capstone Project.",
+    "Test all features and finalize."
+  ]
+}
